@@ -1,0 +1,6 @@
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Info\bin\Debug\Info.exe.config
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Info\bin\Debug\Info.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Info\bin\Debug\Info.pdb
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Info\obj\Debug\Info.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Info\obj\Debug\Info.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Info\obj\Debug\Info.pdb

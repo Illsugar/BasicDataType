@@ -1,0 +1,7 @@
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BMI\bin\Debug\BMI.exe.config
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BMI\bin\Debug\BMI.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BMI\bin\Debug\BMI.pdb
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BMI\obj\Debug\BMI.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BMI\obj\Debug\BMI.pdb

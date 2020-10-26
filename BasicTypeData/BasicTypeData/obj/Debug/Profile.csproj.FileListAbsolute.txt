@@ -1,0 +1,7 @@
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BasicTypeData\bin\Debug\BasicTypeData.exe.config
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BasicTypeData\bin\Debug\BasicTypeData.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BasicTypeData\bin\Debug\BasicTypeData.pdb
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BasicTypeData\obj\Debug\Profile.csprojAssemblyReference.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BasicTypeData\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BasicTypeData\obj\Debug\BasicTypeData.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\BasicTypeData\obj\Debug\BasicTypeData.pdb

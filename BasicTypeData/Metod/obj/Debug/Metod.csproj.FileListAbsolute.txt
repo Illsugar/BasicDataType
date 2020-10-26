@@ -1,0 +1,7 @@
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Metod\bin\Debug\Metod.exe.config
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Metod\bin\Debug\Metod.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Metod\bin\Debug\Metod.pdb
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Metod\obj\Debug\Metod.csprojAssemblyReference.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Metod\obj\Debug\Metod.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Metod\obj\Debug\Metod.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\Metod\obj\Debug\Metod.pdb

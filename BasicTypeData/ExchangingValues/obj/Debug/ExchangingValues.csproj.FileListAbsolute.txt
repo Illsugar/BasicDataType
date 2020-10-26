@@ -1,0 +1,7 @@
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\ExchangingValues\bin\Debug\ExchangingValues.exe.config
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\ExchangingValues\bin\Debug\ExchangingValues.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\ExchangingValues\bin\Debug\ExchangingValues.pdb
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\ExchangingValues\obj\Debug\ExchangingValues.csprojAssemblyReference.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\ExchangingValues\obj\Debug\ExchangingValues.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\ExchangingValues\obj\Debug\ExchangingValues.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\ExchangingValues\obj\Debug\ExchangingValues.pdb
