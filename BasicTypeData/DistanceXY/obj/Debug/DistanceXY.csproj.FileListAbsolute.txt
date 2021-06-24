@@ -1,0 +1,7 @@
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\DistanceXY\bin\Debug\DistanceXY.exe.config
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\DistanceXY\bin\Debug\DistanceXY.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\DistanceXY\bin\Debug\DistanceXY.pdb
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\DistanceXY\obj\Debug\DistanceXY.csprojAssemblyReference.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\DistanceXY\obj\Debug\DistanceXY.csproj.CoreCompileInputs.cache
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\DistanceXY\obj\Debug\DistanceXY.exe
+C:\Users\Samylovskaya\Desktop\C#\BasicTypeData\DistanceXY\obj\Debug\DistanceXY.pdb
